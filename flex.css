@@ -1,0 +1,12 @@
+.container{ 
+    display: flex; 
+    gap: 30px;
+    align-items: center;}
+
+    .container img{
+         flex: 1;
+        min-width:0px;}
+    
+    .container-text{
+        flex: 2;
+        min-width:0px;}

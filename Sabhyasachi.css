@@ -1,0 +1,6 @@
+body{background-color:#040404; color:lightblue; font-family: Arial, sans-serif; margin: 20px;}
+header{background-color:#af44b1; color:white; padding:10px; text-align:center;}
+main{ padding:20px; margin:10px auto;width: 90}
+article{background-color:#262626; color:white; padding:15px; margin:10px 0; width: 110; text-align:center;}
+aside{background-color:#1a1a1a; color:white; padding:15px; margin:10px 0; width: 110;}
+footer{background-color:#af44b1; color:white; padding:10px; text-align:center;}

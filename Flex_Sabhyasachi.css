@@ -1,0 +1,7 @@
+header{background: pink; font: 1em sans-serif;}
+main{background-color: bisque;}
+article{color: brown;}
+footer{background-color: rgb(231, 65, 65);}
+.sabhya{display:flex; 
+gap:20px }
+.sabhya img{}
